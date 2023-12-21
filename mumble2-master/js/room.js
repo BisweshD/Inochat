@@ -1,4 +1,4 @@
-let messagesContainer = document.getElementById('messages');
+npm let messagesContainer = document.getElementById('messages');
 messagesContainer.scrollTop = messagesContainer.scrollHeight;
 
 const memberContainer = document.getElementById('members__container');
